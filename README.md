@@ -1,4 +1,4 @@
-# Building Raspberry Pi Pico C++ SDK in a Docker container
+# Building Raspberry Pi Pico C++ SDK based projects in a Docker container
 
 This repository contains a docker container definition that can be used to build a container containing the Pico C++ SDK
 
